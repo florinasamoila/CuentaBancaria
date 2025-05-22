@@ -13,7 +13,7 @@
 //
 public class Main {
     public static void main(String[] args) {
-        CuentaBancaria cuenta1 = new CuentaBancaria();
+        //CuentaBancaria cuenta1 = new CuentaBancaria();
         CuentaBancaria cuenta2 = new CuentaBancaria("Jhon Doe",1000);
         cuenta2.crearCuenta();
         //cuenta2.mostrarMenu();
